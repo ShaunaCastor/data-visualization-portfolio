@@ -13,4 +13,4 @@ An interactive research project exploring food access, geographic patterns, and 
 
 An interactive data story examining endowment disparities across Historically Black Colleges and Universities.
 
-Developed using AI-assisted tools and interactive data visualization techniques.
+Developed using AI-assisted tools and interactive data visualization techniques. 
